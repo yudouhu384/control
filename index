@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <title>WEB Page</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+    <meta name="description">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+
+
+<body>
+    <header class="pheader">
+        <h1><a href="index.html"><img class="logo" src="images/kirby.png" alt="WEB Page"> </a></h1>
+
+        <nav>
+            <ul class="mainnav">
+                <li><a href="news.html">test1</a></li>
+                <li><a href="menu.html">test2</a></li>
+                <li><a href="contact.html">test3</a></li>
+            </ul>
+        </nav>
+    </header>
+</body>
+
+</html>
